@@ -6,7 +6,6 @@ A production-oriented PowerShell 7 toolkit for running **Apache SpamAssassin on 
 ![PowerShell](https://img.shields.io/badge/PowerShell-7%2B-5391FE?logo=powershell&logoColor=white)
 ![SpamAssassin](https://img.shields.io/badge/SpamAssassin-4.x-orange)
 ![Task Scheduler](https://img.shields.io/badge/Scheduler-Windows%20Task%20Scheduler-0078D4)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 This repository provides a **Windows-native operational wrapper** around the JAM Software port of SpamAssassin. It solves the practical issues that typically appear when deploying SpamAssassin on Windows: background execution, safe restart behavior, logging, scheduled startup, and repeatable `sa-update` automation.
 
