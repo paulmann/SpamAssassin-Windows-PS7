@@ -709,7 +709,7 @@ spamassassin windows powershell powershell7 task-scheduler hmailserver antispam 
 
 ## License
 
-This repository may be released under the MIT License.
+This repository is released under the PolyForm Noncommercial License 1.0.0.
 
 SpamAssassin itself is an Apache Software Foundation project. Review the upstream project and the JAM Software Windows port licensing terms before redistributing binaries.
 
